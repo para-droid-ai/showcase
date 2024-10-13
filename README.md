@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that involve AI research, development, and practical applications.
 - 📫 How to reach me: You can reach me through GitHub or via email at mkibble@gmail.com.
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I love exploring the intersection of AI and cognitive science.
+- ⚡ Fun fact: I love exploring the intersection of AI and cognitive science. I've watched Seinfeld all the way through close to 100 times. I can identify seasons based on Elaine's Hair.
 
 <!---
 para-droid-ai/para-droid-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
