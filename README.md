@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @para-droid
+- 👋 Hi, I'm Mark, but I also go by @para-droid
 - 🗒️ I'm the creator of the [[scratchpad](https://github.com/para-droid-ai/scratchpad)] framework.
 - 🧠 [My Prompt Library](https://github.com/para-droid-ai/prompt_library)
 - 🛠️ [15 years](https://github.com/para-droid-ai/para-droid-ai/blob/main/mark.k.resume.2024-11-06%2020_12_18.pdf) of white-glove technical support experience covering many industries.
