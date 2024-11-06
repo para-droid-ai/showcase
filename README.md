@@ -10,6 +10,14 @@
 - 📫 How to reach me: You can reach me through GitHub or via email at mkibble@gmail.com.
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I've watched Seinfeld all the way through close to 100 times. I can identify seasons based on Elaine's Hair.
+- Demos: 
+-- **Scratchpad In Action:**
+  ![Scratchpad](scratchpad_in_action.gif)
+  *Caption: Scratchpad framework in action via PPLX*
+
+- **OVERMIND_Terminal:**
+  ![overmind_terminal](overmind_terminal.gif)
+  *Caption: Overmind_terminal.*
 
 <!---
 para-droid-ai/para-droid-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
