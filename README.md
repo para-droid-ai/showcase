@@ -9,7 +9,7 @@
 - 📫 How to reach me: You can reach me through GitHub, email: mkibble@gmail.com, or discord: _paradroid
 - ⚡ Fun fact: I've watched Seinfeld all the way through close to 100 times. I can identify seasons based on Elaine's Hair.
 - Demos: 
--- **Scratchpad In Action Sept 2023:**
+-- **Scratchpad In Action Sept 2024:**
   ![Scratchpad](scratchpad_in_action.gif)
   *Caption: Scratchpad framework in action via PPLX*
 
